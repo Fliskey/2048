@@ -18,10 +18,10 @@
 #include <windows.h>
 
 //functions declear
-#include "Headfiles/Borad_core.h"
-#include "Headfiles/Judge.h"
-#include "Headfiles/Save.h"
-#include "Headfiles/Modes.h"
+#include "Includes/Borad_core.h"
+#include "Includes/Judge.h"
+#include "Includes/Save.h"
+#include "Includes/Modes.h"
 
 //global variable
 const int TARGET=2048;
